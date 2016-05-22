@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+@import url(https://fonts.googleapis.com/css?family=Pinyon+Script);
+@import url(https://fonts.googleapis.com/css?family=Herr+Von+Muellerhoff);
+@import url(https://fonts.googleapis.com/css?family=Qwigley);
+@import url(https://fonts.googleapis.com/css?family=Lovers+Quarrel);
+h1 {
+  font-family: 'Lovers Quarrel', cursive;
+  font-size: 500%;
+}
