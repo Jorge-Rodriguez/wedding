@@ -52,6 +52,7 @@
               </div><!-- /.row -->
             </div>
             <div class="modal-footer">
+              <div class="g-recaptcha col-lg-8" data-sitekey="6LeCpSATAAAAALOagR-TnlWuaep3NC0iOxcQ1mq-"></div>
               <button type="button" class="btn btn-default" data-dismiss="modal"><?php echo $close ?></button>
               <button type="submit" class="btn btn-primary"><?php echo $go ?></button>
             </div>
